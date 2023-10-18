@@ -6,3 +6,5 @@ Credit: https://github.com/Demigod916/object_gizmo & https://github.com/dolutatt
 `/prop <model*> <boneID*> <animDictionary?> <animationName?>`
 
 https://www.youtube.com/watch?v=LsRLwj2pAS0
+
+copy to clipboard, thanks to MrNewb
